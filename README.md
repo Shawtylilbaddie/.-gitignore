@@ -88,7 +88,7 @@
         <string>com.github.GitHubClient</string>
         <key>CFBundleURLSchemes</key>
         <array>
-          <string>x-github-desktop-auth</string>
+                <string>x-github-desktop-auth</string>
           <string>x-github-client</string>
           <string>github-mac</string>
         </array>
